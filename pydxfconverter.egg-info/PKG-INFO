@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: pydxfconverter
+Version: 0.1.0
+Author: Glenn Layson
+Author-email: dev@glennlayson.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: numpy-stl
+Requires-Dist: ezdxf
+Dynamic: author
+Dynamic: author-email
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist

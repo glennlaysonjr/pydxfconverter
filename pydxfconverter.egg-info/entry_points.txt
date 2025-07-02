@@ -1,0 +1,3 @@
+[console_scripts]
+stl-to-dxf = pydxfconverter.converter:main
+verify-dxf = pydxfconverter.verify_dxf:main

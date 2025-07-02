@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+pydxfconverter/__init__.py
+pydxfconverter/converter.py
+pydxfconverter/verify_dxf.py
+pydxfconverter.egg-info/._PKG-INFO
+pydxfconverter.egg-info/._dependency_links.txt
+pydxfconverter.egg-info/._entry_points.txt
+pydxfconverter.egg-info/._requires.txt
+pydxfconverter.egg-info/._top_level.txt
+pydxfconverter.egg-info/PKG-INFO
+pydxfconverter.egg-info/SOURCES.txt
+pydxfconverter.egg-info/dependency_links.txt
+pydxfconverter.egg-info/entry_points.txt
+pydxfconverter.egg-info/requires.txt
+pydxfconverter.egg-info/top_level.txt
